@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hello new world</string>
+    <string name="hello_first_fragment"> 0</string>
+    <string name="Count_Button">Count</string>
+    <string name="Random_Button">Random</string>
+    <string name="Toast_Button">Toast</string>
+</resources>
